@@ -1,0 +1,14 @@
+status,orders,sales_amount
+Cancelled,18334,6918423.25
+Pending,658,430271.0
+Pending - Waiting for Pick Up,281,192138.0
+Shipped,77815,50330186.0
+Shipped - Damaged,1,1136.0
+Shipped - Delivered to Buyer,28756,18642383.0
+Shipped - Lost in Transit,5,1997.0
+Shipped - Out for Delivery,35,26971.0
+Shipped - Picked Up,973,661252.0
+Shipped - Rejected by Buyer,11,7295.0
+Shipped - Returned to Seller,1954,1270498.0
+Shipped - Returning to Seller,145,107620.0
+Shipping,8,0.0
